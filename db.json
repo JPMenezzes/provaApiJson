@@ -1,0 +1,58 @@
+{
+  "deuses": [
+      	{
+        	"nome": "Zeus"
+      	},
+      	{
+        	"nome": "Atena"
+      	},
+      	{
+        	"nome": "Hermes"
+      	},
+        {
+        	"nome": "Deméter"
+      	}  
+  ],
+  "armas": [
+      	{
+        	"nome": "Raio"
+      	},
+      	{
+        	"nome": "Cetro"
+      	},
+      	{
+        	"nome": "Caduceu"
+      	},
+        {
+        	"nome": "Foice"
+      	}
+  ],
+  "letras": [
+      	"A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
+  ]
+}
